@@ -1,6 +1,7 @@
 # DataCenter Enviroment 2B
 
-To use this module Please go to (https://github.com/waleedrady/AWS_Cloud_DC_Environment_2B)
+Source Code for this Module (https://github.com/WEEMR/terraform-aws-DataCenter_Enviroment_2B)
+Terraform Registery         (https://registry.terraform.io/modules/WEEMR/DataCenter_Enviroment_2C/aws/latest)
 
 Terraform Module that will create the AWS Networking Stack with FGT, Apache Server, Windows Server and utilize AWS Route53 for DNS. 
 
